@@ -1,0 +1,90 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.organizer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:5:5-41:19
+12        android:allowBackup="true"
+12-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] C:\Users\Антон\.gradle\caches\transforms-2\files-2.1\c560b8721f05ca12656603dd382025ab\core-1.3.1\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher2"
+15-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:7:9-44
+16        android:label="@string/app_name"
+16-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:8:9-41
+17        android:supportsRtl="true"
+17-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:10:9-35
+18        android:testOnly="true"
+19        android:theme="@style/Theme.Organizer" >
+19-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:11:9-47
+20        <activity android:name="com.example.organizer.SelectActivity" />
+20-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:12:9-61
+20-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:12:19-49
+21        <activity android:name="com.example.organizer.ExplanationActivity" />
+21-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:13:9-57
+21-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:13:19-54
+22        <activity
+22-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:14:9-16:52
+23            android:name="com.example.organizer.DailyListActivity"
+23-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:15:13-46
+24            android:screenOrientation="portrait" />
+24-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:16:13-49
+25        <activity
+25-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:17:9-19:52
+26            android:name="com.example.organizer.GeneralTaskActivity"
+26-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:18:13-48
+27            android:screenOrientation="portrait" />
+27-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:19:13-49
+28        <activity
+28-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:20:9-22:52
+29            android:name="com.example.organizer.ListGitemActivity"
+29-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:21:13-46
+30            android:screenOrientation="portrait" />
+30-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:22:13-49
+31        <activity
+31-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:23:9-25:52
+32            android:name="com.example.organizer.TimeActivity"
+32-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:24:13-41
+33            android:screenOrientation="portrait" />
+33-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:25:13-49
+34        <activity
+34-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:26:9-28:52
+35            android:name="com.example.organizer.DateActivity"
+35-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:27:13-41
+36            android:screenOrientation="portrait" />
+36-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:28:13-49
+37        <activity
+37-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:29:9-31:52
+38            android:name="com.example.organizer.GeneralList"
+38-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:30:13-40
+39            android:screenOrientation="portrait" />
+39-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:31:13-49
+40        <activity
+40-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:32:9-40:20
+41            android:name="com.example.organizer.MainActivity"
+41-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:33:13-41
+42            android:screenOrientation="portrait" >
+42-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:34:13-49
+43            <intent-filter>
+43-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:35:13-39:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:36:17-69
+44-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:36:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:38:17-77
+46-->B:\WorkSpace\Android\Organizer\app\src\main\AndroidManifest.xml:38:27-74
+47            </intent-filter>
+48        </activity>
+49    </application>
+50
+51</manifest>

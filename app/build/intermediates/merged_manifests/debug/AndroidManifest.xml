@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.organizer"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="30" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher2"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.Organizer" >
+        <activity android:name="com.example.organizer.SelectActivity" />
+        <activity android:name="com.example.organizer.ExplanationActivity" />
+        <activity
+            android:name="com.example.organizer.DailyListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.organizer.GeneralTaskActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.organizer.ListGitemActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.organizer.TimeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.organizer.DateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.organizer.GeneralList"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.organizer.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

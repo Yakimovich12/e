@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher2.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher2.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher2.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_gitem.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\layout\\list_gitem.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_explanation.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\layout\\activity_explanation.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher1.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher1.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher2.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher2.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher1.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_general_task.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\layout\\activity_general_task.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher1.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_time.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\layout\\activity_time.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_general_list.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\layout\\activity_general_list.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_date.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\layout\\activity_date.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher1.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_daily_list.xml.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\layout\\activity_daily_list.xml"
+    },
+    {
+        "merged": "B:\\WorkSpace\\Android\\Organizer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "B:\\WorkSpace\\Android\\Organizer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
